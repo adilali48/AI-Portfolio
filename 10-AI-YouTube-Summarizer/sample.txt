@@ -1,0 +1,2 @@
+This file is used for testing the AI summarizer.
+You can replace this content with any transcript later.
