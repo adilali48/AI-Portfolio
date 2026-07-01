@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+langchain-experimental
+tavily-python
+markdown
+sqlalchemy
+pandas
+langchain-groq
